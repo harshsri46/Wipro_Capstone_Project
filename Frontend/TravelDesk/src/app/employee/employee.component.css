@@ -1,0 +1,15 @@
+.navbar {
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+  }
+  
+  .navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+    margin:0 /* Vertically centers the text */
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    margin:0 /* Vertically centers the text */
+  }

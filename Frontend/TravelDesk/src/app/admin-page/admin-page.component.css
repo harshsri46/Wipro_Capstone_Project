@@ -1,0 +1,12 @@
+
+.btn-custom {
+    background-color: #0e3d6f; /* Orange background */
+    border-color: #0b2c51; /* Orange border */
+    color: #FFFFFF; /* White text */
+  }
+  
+  .btn-custom:hover {
+    background-color: #1b589a; /* Darker orange on hover */
+    border-color: #0e4c8e;
+    color: #FFFFFF;
+  }
